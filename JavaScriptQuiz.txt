@@ -1,0 +1,29 @@
+//Question number 1;
+function send alert() {
+  alert("Hello World");
+
+//Question number 2;
+  let fname = Taneisia;
+  let lname = Grant;
+  console.log(lname + fname);
+
+  //Question number 3;
+  let dog = 'x';
+  let cat = 'y';
+
+  //Swap values
+cat = 'x';
+dog = 'y';
+console.log(dog);
+console.log(cat);
+
+//Question number 4;
+isOn =
+lightsUP =
+//Question number 5;
+
+//Question number 6;
+//Question number 7;
+//Question number 8;
+//Question number 9;
+//Question number 10;
