@@ -1,0 +1,6 @@
+//Question 1
+console.log("I will succeed");
+
+//Question 2
+console.log(lname,fname);
+//Question 3
