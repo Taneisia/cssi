@@ -3,4 +3,20 @@ console.log("I will succeed");
 
 //Question 2
 console.log(lname,fname);
+
 //Question 3
+let x = "dog";
+let y = "cat";
+let temp = y;
+y = x;
+x = temp;
+
+//Question 4
+
+//Question 5
+//Question 6
+//Question 7
+
+//Question 8
+//Question 9
+//Question 10
