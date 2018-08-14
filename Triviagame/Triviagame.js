@@ -19,6 +19,7 @@ greenButton = document.querySelector('click', (e) => {
 }
 </script>
 // new code for button
+<<<<<<< HEAD
 id= demo
 <button onclick="myFunction()"</button>
 
@@ -54,3 +55,14 @@ id= demo
 //d. It broke off of his leg.
 
 //5. 
+=======
+id= demo                                     
+<button onclick="myFunction()">Click me</button>
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}                                     
+
+  <element onclick="myScript">  
+  
+>>>>>>> f43fef99840d8c6c8f96c3e021c1de73a4d2f76d
