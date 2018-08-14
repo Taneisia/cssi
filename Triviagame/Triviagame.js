@@ -16,7 +16,7 @@ let greenButton = document.querySelector('#green');
 greenButton = document.querySelector('click', (e) => {
 
 }
-
+</script>
 // new code for button
 id= demo                                     
 <button onclick="myFunction()">Click me</button>
@@ -24,3 +24,6 @@ id= demo
 function myFunction() {
   document.getElementById("demo").innerHTML = "Hello World";
 }                                     
+
+  <element onclick="myScript">  
+  
