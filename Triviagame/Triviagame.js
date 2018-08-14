@@ -16,3 +16,11 @@ let greenButton = document.querySelector('#green');
 greenButton = document.querySelector('click', (e) => {
 
 }
+
+// new code for button
+id= demo                                     
+<button onclick="myFunction()">Click me</button>
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}                                     
